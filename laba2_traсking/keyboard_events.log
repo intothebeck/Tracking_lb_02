@@ -1,0 +1,657 @@
+Key pressed: 1
+Key released: '1'
+Special key pressed: Key.ctrl
+Key pressed: c
+Key released: Key.ctrl
+Key released: 'c'
+Special key pressed: Key.ctrl
+Key pressed: z
+Key released: Key.ctrl
+Key released: 'z'
+Special key pressed: Key.ctrl
+Key pressed: z
+Key released: Key.ctrl
+Key released: 'z'
+Special key pressed: Key.ctrl
+Key pressed: v
+Key released: Key.ctrl
+Key released: 'v'
+Key pressed: 1
+Key released: '1'
+Key pressed: 2
+Key pressed: 3
+Key released: '2'
+Key released: '3'
+Key pressed: 2
+Key pressed: 1
+Key released: '1'
+Key released: '2'
+Special key pressed: Key.ctrl
+Key pressed: v
+Key released: Key.ctrl
+Key released: 'v'
+Special key pressed: Key.ctrl
+Key pressed: c
+Key released: Key.ctrl
+Key released: 'c'
+Special key pressed: Key.ctrl
+Key pressed: z
+Key released: Key.ctrl
+Key released: 'z'
+Special key pressed: Key.ctrl
+Key pressed: x
+Key released: Key.ctrl
+Key released: 'x'
+Special key pressed: Key.alt
+Key released: Key.alt
+Special key pressed: Key.alt
+Key released: Key.alt
+Key pressed: f
+Key pressed: g
+Key released: 'f'
+Key released: 'g'
+Key pressed: s
+Key pressed: d
+Key released: 's'
+Key pressed: f
+Key released: 'd'
+Key released: 'f'
+Key pressed: d
+Key released: 'd'
+Key pressed: f
+Key released: 'f'
+Key pressed: g
+Key released: 'g'
+Key pressed: h
+Key released: 'h'
+Key pressed: v
+Key released: 'v'
+Key pressed: c
+Key pressed: x
+Key released: 'x'
+Key released: 'c'
+Special key pressed: Key.alt
+Key released: Key.alt
+Special key pressed: Key.f1
+Key released: Key.f1
+Special key pressed: Key.f1
+Key released: Key.f1
+Special key pressed: Key.f2
+Key released: Key.f2
+Special key pressed: Key.f3
+Key released: Key.f3
+Key pressed: 1
+Key released: '1'
+Key pressed: 2
+Key released: '2'
+Special key pressed: Key.shift
+Key pressed: @
+Key released: <65032>
+Key released: '2'
+Special key pressed: Key.shift
+Key pressed: #
+Key released: <65032>
+Key released: '3'
+Special key pressed: Key.shift
+Key pressed: $
+Key released: <65032>
+Key released: '4'
+Special key pressed: Key.shift
+Key pressed: $
+Key released: <65032>
+Key released: '4'
+Special key pressed: Key.shift
+Key pressed: @
+Key released: <65032>
+Key released: '2'
+Special key pressed: Key.ctrl
+Key pressed: c
+Key released: Key.ctrl
+Key released: 'c'
+Key pressed: a
+Key pressed: a
+Key pressed: a
+Key pressed: a
+Key pressed: a
+Key pressed: a
+Key pressed: a
+Key pressed: a
+Key pressed: a
+Key pressed: a
+Key pressed: a
+Key pressed: a
+Key pressed: a
+Key pressed: a
+Key pressed: a
+Key pressed: a
+Key pressed: a
+Key pressed: a
+Key pressed: a
+Key pressed: a
+Key pressed: a
+Key pressed: a
+Key pressed: a
+Key pressed: a
+Key pressed: a
+Key pressed: a
+Key released: 'a'
+Key pressed: a
+Key pressed: a
+Key pressed: a
+Key pressed: a
+Key pressed: a
+Key pressed: a
+Key pressed: a
+Key pressed: a
+Key pressed: a
+Key pressed: a
+Key pressed: a
+Key pressed: a
+Key pressed: a
+Key pressed: a
+Key pressed: a
+Key pressed: a
+Key released: 'a'
+Special key pressed: Key.shift
+Key pressed: @
+Key released: <65032>
+Key released: '2'
+Special key pressed: Key.ctrl
+Key pressed: v
+Key released: Key.ctrl
+Key released: 'v'
+Special key pressed: Key.ctrl
+Key pressed: z
+Key released: Key.ctrl
+Key released: 'z'
+Special key pressed: Key.ctrl
+Key pressed: v
+Key released: Key.ctrl
+Key released: 'v'
+Special key pressed: Key.ctrl
+Key released: Key.ctrl
+Special key pressed: Key.ctrl
+Key pressed: s
+Key released: Key.ctrl
+Key released: 's'
+Special key pressed: Key.esc
+Key released: Key.esc
+Special key pressed: Key.shift
+Key pressed: @
+Key released: None
+Key released: 2
+Special key pressed: Key.shift
+Key pressed: @
+Key released: None
+Key released: 2
+Special key pressed: Key.shift
+Key pressed: #
+Key released: None
+Key released: 3
+Special key pressed: Key.alt
+Key pressed: 1
+Special key released: Key.alt
+Key released: 1
+Special key pressed: Key.alt
+Key pressed: 2
+Special key released: Key.alt
+Key released: 2
+Special key pressed: Key.backspace
+Special key released: Key.backspace
+Special key pressed: Key.ctrl
+Key pressed: f
+Special key released: Key.ctrl
+Key released: f
+Key pressed: o
+Key released: o
+Key pressed: n
+Key released: n
+Special key pressed: Key.shift
+Key pressed: _
+Key released: None
+Key released: -
+Key pressed: c
+Key released: c
+Key pressed: o
+Key released: o
+Key pressed: m
+Key released: m
+Special key pressed: Key.ctrl
+Key pressed: a
+Special key released: Key.ctrl
+Key released: a
+Special key pressed: Key.ctrl
+Key pressed: c
+Special key released: Key.ctrl
+Key released: c
+Special key pressed: Key.ctrl
+Key pressed: a
+Special key released: Key.ctrl
+Key released: a
+Special key pressed: Key.ctrl
+Key pressed: v
+Special key released: Key.ctrl
+Key released: v
+Special key pressed: Key.ctrl
+Key pressed: s
+Special key released: Key.ctrl
+Key released: s
+Key pressed: 1
+Key released: '1'
+Special key pressed: Key.backspace
+Key released: Key.backspace
+Special key pressed: Key.ctrl
+Key pressed: x
+Key released: Key.ctrl
+Key released: 'x'
+Special key pressed: Key.ctrl
+Key pressed: x
+Key released: Key.ctrl
+Key released: 'x'
+Special key pressed: Key.ctrl
+Key pressed: x
+Key released: Key.ctrl
+Key released: 'x'
+Special key pressed: Key.ctrl
+Key pressed: x
+Key released: Key.ctrl
+Key released: 'x'
+Special key pressed: Key.ctrl
+Key pressed: a
+Key released: Key.ctrl
+Key released: 'a'
+Special key pressed: Key.ctrl
+Key released: Key.ctrl
+Key pressed: c
+Key released: 'c'
+Special key pressed: Key.backspace
+Key released: Key.backspace
+Special key pressed: Key.ctrl
+Key pressed: v
+Key released: Key.ctrl
+Key released: 'v'
+Special key pressed: Key.ctrl
+Key pressed: s
+Key released: Key.ctrl
+Key released: 's'
+Special key pressed: Key.ctrl
+Key pressed: x
+Key pressed: 1
+Key released: '1'
+Key pressed: 2
+Key released: '2'
+Key pressed: 3
+Key released: '3'
+Key pressed: 4
+Key released: '4'
+Key pressed: 5
+Key released: '5'
+Special key pressed: Key.shift
+Key pressed: @
+Key released: <65032>
+Key released: '2'
+Key pressed: 2
+Key released: '2'
+Key pressed: 2
+Special key pressed: Key.shift
+Key released: '@'
+Key released: <65032>
+Special key pressed: Key.shift
+Key pressed: @
+Key released: <65032>
+Key released: '2'
+Special key pressed: Key.ctrl
+Key pressed: x
+Key pressed: 1
+Key pressed: 2
+Key released: '1'
+Key released: '2'
+Key pressed: 2
+Key pressed: 1
+Key released: '1'
+Key released: '2'
+Key pressed: 2
+Key pressed: 1
+Key released: '2'
+Key released: '1'
+Key pressed: 2
+Key pressed: 1
+Key released: '2'
+Key released: '1'
+Key pressed: 2
+Key pressed: 1
+Key released: '1'
+Key released: '2'
+Key pressed: 2
+Key pressed: 1
+Key released: '2'
+Key released: '1'
+Key pressed: 3
+Key released: '3'
+Special key pressed: Key.shift
+Key pressed: +
+Key released: '+'
+Key released: <65032>
+Key pressed: 4
+Key released: '4'
+Special key pressed: Key.shift
+Key pressed: +
+Key released: <65032>
+Key released: '='
+Special key pressed: Key.ctrl
+Key pressed: s
+Key released: Key.ctrl
+Key released: 's'
+Key pressed: 1
+Key released: '1'
+Special key pressed: Key.shift
+Key pressed: @
+Key released: <65032>
+Key released: '2'
+Key pressed: 3
+Key released: '3'
+Key pressed: 4
+Key released: '4'
+Key pressed: g
+Key released: 'g'
+Key pressed: j
+Key released: 'j'
+Key pressed: i
+Key released: 'i'
+Key pressed: `
+Key released: '`'
+Key pressed: k
+Key released: 'k'
+Key pressed: ]
+Key released: ']'
+Key pressed: g
+Key released: 'g'
+Key pressed: d
+Key pressed: f
+Key released: 'd'
+Key released: 'f'
+Key pressed: d
+Key released: 'd'
+Key pressed: f
+Key released: 'f'
+Key pressed: f
+Key released: 'f'
+Key pressed: v
+Key released: 'v'
+Key pressed: b
+Key released: 'b'
+Key pressed: z
+Key released: 'z'
+Key pressed: x
+Key released: 'x'
+Key pressed: s
+Key released: 's'
+Key pressed: s
+Key released: 's'
+Key pressed: d
+Key pressed: d
+Key pressed: d
+Key pressed: d
+Key pressed: d
+Key pressed: d
+Key pressed: d
+Key pressed: d
+Key pressed: d
+Key pressed: d
+Key pressed: d
+Key pressed: d
+Key pressed: d
+Key pressed: d
+Key pressed: d
+Key pressed: d
+Key pressed: d
+Key pressed: d
+Key pressed: d
+Key released: 'd'
+Key pressed: d
+Key pressed: d
+Key pressed: d
+Key pressed: d
+Key pressed: d
+Key pressed: d
+Key pressed: d
+Key pressed: d
+Key pressed: d
+Key pressed: d
+Key pressed: d
+Key pressed: d
+Key pressed: d
+Key pressed: d
+Key pressed: d
+Key pressed: d
+Key pressed: d
+Key pressed: d
+Key pressed: d
+Key pressed: d
+Key pressed: d
+Key pressed: d
+Key pressed: d
+Key pressed: d
+Key pressed: d
+Key pressed: d
+Key pressed: d
+Key pressed: d
+Key pressed: d
+Key pressed: d
+Key pressed: d
+Key pressed: d
+Key pressed: d
+Key pressed: d
+Key pressed: d
+Key pressed: d
+Key pressed: d
+Key pressed: d
+Key pressed: d
+Key released: 'd'
+Special key pressed: Key.ctrl
+Key pressed: a
+Key released: Key.ctrl
+Key released: 'a'
+Special key pressed: Key.ctrl
+Key pressed: c
+Key released: Key.ctrl
+Key released: 'c'
+Special key pressed: Key.ctrl
+Key pressed: c
+Key released: Key.ctrl
+Key released: 'c'
+Special key pressed: Key.ctrl
+Key pressed: f
+Key released: Key.ctrl
+Key released: 'f'
+Key pressed: o
+Key released: 'o'
+Key pressed: n
+Key released: 'n'
+Special key pressed: Key.shift
+Key pressed: _
+Key released: <65032>
+Key released: '-'
+Key pressed: p
+Key released: 'p'
+Key pressed: r
+Key released: 'r'
+Special key pressed: Key.ctrl
+Key pressed: v
+Key released: Key.ctrl
+Key released: 'v'
+Special key pressed: Key.ctrl
+Key pressed: s
+Key released: Key.ctrl
+Key released: 's'
+Special key pressed: Key.ctrl
+Key pressed: x
+Key released: Key.up
+Key released: Key.down
+Key released: Key.down
+Key released: Key.left
+Key released: Key.right
+Key released: Key.down
+Key released: Key.left
+Key released: Key.backspace
+Key released: Key.backspace
+Key pressed: @
+Key released: <65032>
+Key released: '2'
+Key pressed: f
+Key released: 'f'
+Key pressed: d
+Key released: 'd'
+Key pressed: x
+Key pressed: f
+Key released: 'f'
+Key pressed: v
+Key released: Key.ctrl
+Key released: 'v'
+Key pressed: s
+Key released: Key.ctrl
+Key released: 's'
+Key pressed: f
+Key released: 'f'
+Key released: Key.left
+Key pressed: z
+Key released: 'z'
+Key released: Key.ctrl
+Key released: Key.up
+Key pressed: f
+Key released: 'f'
+Key pressed: z
+Key released: 'z'
+Key pressed: z
+Key released: 'z'
+Key pressed: z
+Key released: 'z'
+Key released: Key.ctrl
+Key pressed: s
+Key released: Key.ctrl
+Key released: 's'
+Key pressed: x
+Key pressed: d
+Key released: 'd'
+Key pressed: f
+Key released: 'f'
+Key pressed: f
+Key released: 'f'
+Key pressed: d
+Key pressed: f
+Key released: 'd'
+Key released: 'f'
+Key pressed: @
+Key released: <65032>
+Key released: '2'
+Key pressed: b
+Key pressed: v
+Key released: 'b'
+Key released: 'v'
+Key pressed: b
+Key pressed: v
+Key released: 'b'
+Key released: 'v'
+Key pressed: f
+Key released: 'f'
+Key pressed: g
+Key released: 'g'
+Key pressed: h
+Key released: 'h'
+Key pressed: d
+Key pressed: f
+Key released: 'd'
+Key pressed: d
+Key released: 'f'
+Key released: 'd'
+Key pressed: x
+Key pressed: f
+Key released: 'f'
+Key pressed: g
+Key pressed: f
+Key released: 'g'
+Key released: 'f'
+Key pressed: f
+Key released: 'f'
+Key pressed: h
+Key released: 'h'
+Key pressed: d
+Key released: 'd'
+Key released: Key.backspace
+Key released: Key.backspace
+Key released: Key.backspace
+Key pressed: g
+Key released: 'g'
+Key pressed: h
+Key released: 'h'
+Key pressed: b
+Key pressed: d
+Key released: 'b'
+Key pressed: t
+Key released: 'd'
+Key released: 't'
+Key pressed: n
+Key released: 'n'
+Key released: Key.space
+Key pressed: r
+Key pressed: f
+Key released: 'r'
+Key pressed: r
+Key released: 'f'
+Key released: 'r'
+Key released: Key.space
+Key pressed: l
+Key pressed: t
+Key released: 'l'
+Key released: 't'
+Key pressed: k
+Key pressed: f
+Key released: 'k'
+Key released: 'f'
+Key pressed: x
+Key pressed: f
+Key released: 'f'
+Key pressed: g
+Key released: 'g'
+Key pressed: x
+Key released: 'x'
+Key pressed: x
+Key released: 'x'
+Key pressed: x
+Key pressed: p
+Key released: 'p'
+Key pressed: r
+Key released: 'r'
+Key pressed: i
+Key released: 'i'
+Key pressed: v
+Key released: 'v'
+Key pressed: e
+Key released: 'e'
+Key pressed: t
+Key released: 't'
+Key pressed: k
+Key released: 'k'
+Key pressed: a
+Key released: 'a'
+Key pressed: k
+Key released: 'k'
+Key released: Key.space
+Key pressed: d
+Key released: 'd'
+Key pressed: e
+Key released: 'e'
+Key pressed: l
+Key released: 'l'
+Key pressed: a
+Key released: 'a'
+Key pressed: @
+Key released: <65032>
+Key released: '2'
+Key pressed: #
+Key released: <65032>
+Key released: '3'
+Key pressed: $
+Key released: <65032>
+Key released: '4'
+Key pressed: x
